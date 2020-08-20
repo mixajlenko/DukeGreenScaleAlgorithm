@@ -1,0 +1,41 @@
+h1{
+  font-family: sans-serif;
+}
+#gray{
+  position:relative;
+  left: 610px;
+  top:12px;
+}
+#orig{
+  position:relative;
+  top: 70px;
+}
+#can{
+  height: 300px;
+  border: 1px solid black;
+  background: #f9faf7;
+}
+#can2{
+  height: 300px;
+  border: 1px solid black;
+  background: #f9faf7;
+}
+
+input{
+  font-size: 14px;
+}
+#gs{
+  position:relative;
+  left:820px;
+  bottom:70px;
+}
+#div1{
+  background-color:#ffe6cc;
+  width:500px;
+  height:75px;
+}
+#b2{
+  position:relative;
+  left:820px;
+  bottom:70px;
+}
